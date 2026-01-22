@@ -1,20 +1,39 @@
+# Creative Director Portfolio
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="./portfolioCreativeDir.png" width="100%" alt="Project Demo Banner" />
+  
+  <br />
+
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
 </div>
 
-# Run and deploy your AI Studio app
+<br />
 
-This contains everything you need to run your app locally.
+## ⚡ About The Project
+A modern, dark-themed portfolio web application designed for a Creative Director. Built with React.js, Vite, and Tailwind CSS, it features high-performance animations, a responsive layout, and a sleek design ensuring a premium user experience to showcase creative work and services.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Zdw986-zgx8zT0lI8kMMuKy3Xl862QWg
+## ✨ Key Features
+* 🎯 **Dynamic Hero & Navigation :** An immersive landing section with a responsive navigation bar and smooth scrolling capabilities.
+* 🚀 **Services Ticker :** An animated, marquee-style ticker component that highlights the range of services offered in a visually engaging way.
+* 🎨 **Project Showcase :** A dedicated Work Section to display portfolio projects with a focus on visual impact and typography.
 
-## Run Locally
+## 🛠️ Built With
+* **Front-end :** React, TypeScript, Vite, Tailwind CSS
+* **Back-end :** None (Static/SPA)
 
-**Prerequisites:**  Node.js
+## 🚀 Getting Started
+```bash
+# Clone the repo
+git clone https://github.com/Mid0o03/portfolio_creativeDirector.git
 
+# Install dependencies
+npm install
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Run the server
+npm run dev
+```
